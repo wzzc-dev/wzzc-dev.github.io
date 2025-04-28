@@ -10,8 +10,6 @@ toc: true
 
 
 
-# TGI 相比于 huggingface 的 transformers pipline 提高的地方
-
 TGI（Text Generation Inference）是 Hugging Face 专为生产环境优化的文本生成服务，相比直接使用 `transformers`​ 库的 `pipeline`​，它在性能、功能和部署效率上有显著提升。以下是主要改进点：
 
 ---
